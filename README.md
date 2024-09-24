@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey there.
+I'm Nathan, and I'm here to learn to code. 
+  
+        
 
 <!--
 **Jonas-Nathan/Jonas-Nathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
